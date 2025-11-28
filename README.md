@@ -85,7 +85,7 @@ Here is **another evaluation table**, using a **different set of scores** but st
 
 ---
 
-# ⭐ **Evaluation (Rubrics: Clarity, Relevance, Completeness — 1 to 5 scale)**
+#  **Evaluation (Rubrics: Clarity, Relevance, Completeness — 1 to 5 scale)**
 
 
 
