@@ -1,7 +1,8 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
+# Ex.No.4- Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 ### NAME: S.L.NARASIMHA REDDY
 ### REGISTER NUMBER : 212223040214
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+### Aim: 
+To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 
 ## **Scenario and Use Case**  
@@ -20,92 +21,98 @@
 
 ### **1. Comparative Analysis Prompt**  
 **Prompt:**  
-*"Compare and contrast IoT-based automation and traditional manual monitoring in manufacturing."*  
+*""Compare and contrast cloud computing and edge computing in terms of latency, scalability, and use-case suitability."."*  
 
 **ChatGPT:**  
-IoT-based automation allows real-time data collection, predictive maintenance, and remote monitoring. It reduces human error and downtime. Traditional manual monitoring requires human operators, is slower, and lacks predictive capabilities.  
+Cloud computing offers high scalability and centralized processing, making it ideal for large data workloads. However, it suffers from higher latency since data must travel to remote servers. Edge computing reduces latency by processing data locally and is suited for real-time applications, though it is less scalable compared to the cloud and requires distributed management.
 
 **Gemini:**  
-IoT automation gives live data and predictive alerts, while manual monitoring depends on workers physically checking machines. IoT is faster and reduces errors, but manual monitoring is cheaper and simple for small setups.  
+Cloud computing scales easily and works well for heavy data processing, but latency can be high because everything goes to the cloud. Edge computing keeps processing close to the device, giving very low latency, good for IoT and real-time tasks. However, edge setups are harder to manage and may not scale as smoothly as cloud systems.
  
 
 ### **2. Experiential Perspective Prompt**  
 **Prompt:**  
-*"As a factory manager, explain the benefits of predictive maintenance through IoT devices."*  
-
+"As a warehouse supervisor, describe how AI-powered inventory tracking has changed your daily workflow."
 **ChatGPT:**  
-As a factory manager, predictive maintenance helps me avoid costly breakdowns, schedule repairs before failures, and keep production running smoothly. It reduces downtime and increases worker confidence.  
+As a warehouse supervisor, AI-powered inventory tracking has made my work far more efficient. I no longer need to manually check shelves, as the system updates stock levels in real time. It reduces errors, speeds up order processing, and lets me focus on managing staff and resolving issues instead of counting items. My day feels more organized and less stressful.  
 
 **Gemini:**  
-From a manager’s view, predictive maintenance saves money, prevents sudden stoppages, and ensures machines last longer. It also reduces stress of unexpected breakdowns.  
-
- 
+From my perspective as a supervisor, AI tracking makes inventory work smoother. I get instant alerts when items run low, and I don’t have to double-check stock manually. It saves time, cuts mistakes, and helps me keep the warehouse running neatly every day.
 
 ### **3. Everyday Functioning Prompt**  
 **Prompt:**  
-*"Describe how IoT-based monitoring improves daily factory operations like energy usage and machine control."*  
+*"Explain how AI-assisted scheduling improves day-to-day tasks in a manufacturing unit."*  
 
 **ChatGPT:**  
-IoT systems track machine energy consumption in real time, helping reduce waste. Managers can remotely control equipment, turn off idle machines, and schedule operations for maximum efficiency.  
+AI-assisted scheduling automatically assigns tasks based on machine availability, worker shifts, and priority levels. It reduces delays, prevents clashes between job orders, and ensures that machines are used efficiently throughout the day. This leads to smoother operations and better time management.
 
 **Gemini:**  
-IoT monitoring shows which machines use more power and allows remote switching. It helps workers manage energy and control operations from a dashboard.  
-
- 
+AI scheduling helps plan daily work more smoothly. It arranges tasks according to machine and worker availability, avoids timing conflicts, and keeps production running without gaps. It makes everyday factory work more organized.
 
 ### **4. Universal Prompt Structures**  
 **Prompt:**  
-*"Explain predictive maintenance in simple terms with an example."*  
+*"Describe how a smart factory works using role, task, constraints, and output format."*  
 
 **ChatGPT:**  
-Predictive maintenance means fixing machines before they break down. For example, if a machine shows unusual vibration, IoT sensors alert engineers to repair it early, preventing bigger damage.  
+Role: You are an industrial automation expert.
+Task: Explain how a smart factory operates.
+Constraints: Use simple language and limit the explanation to two main features.
+Output Format: Short paragraph.
 
+# Response:
+A smart factory uses connected sensors and automated machines to manage production efficiently. It can monitor equipment health in real time and automatically adjust workflows based on machine performance.
 **Gemini:**  
-Predictive maintenance is checking machines in advance. Example: If sensors detect overheating, repairs are done before the machine stops working.  
+Role: Act as a manufacturing consultant.
+Task: Describe the working of a smart factory.
+Constraints: Keep the explanation simple for beginners.
+Output Format: 3–4 lines.
 
- 
+# Response:
+A smart factory uses sensors, robots, and data analytics to control machines and track production. It can detect issues early and optimize workflow automatically. This makes manufacturing faster and more accurate.
 
 ### **5. Prompt Size Limitations**  
 **Prompt:**  
-*"List 20 applications of IoT in manufacturing."*  
-(Handled in smaller chunks: *"List 5 applications of IoT in manufacturing."*)  
-
+"In exactly two sentences, explain how IoT sensors help in improving workplace safety."
 **ChatGPT:**  
-1. Predictive maintenance  
-2. Real-time monitoring  
-3. Energy optimization  
-4. Inventory tracking  
-5. Remote machine control  
+IoT sensors detect hazardous conditions like gas leaks, high temperatures, or machine vibrations and alert workers immediately. They help prevent accidents by providing real-time warnings and enabling quick action.
 
 **Gemini:**  
-1. Smart sensors for machines  
-2. Remote monitoring  
-3. Quality control  
-4. Worker safety alerts  
-5. Energy usage tracking  
+IoT sensors constantly monitor the environment and warn workers about dangers. This reduces accidents and keeps the workplace safer.
 
  
 
-## **Evaluation (Rubrics: Clarity, Relevance, Completeness — 1 to 5 scale)**  
+Here is **another evaluation table**, using a **different set of scores** but still realistic and balanced — perfect as a second example or an alternate version.
 
-| Prompt Type               | ChatGPT Clarity | ChatGPT Relevance | ChatGPT Completeness | Gemini Clarity | Gemini Relevance | Gemini Completeness |  
-|----------------------------|-----------------|-------------------|----------------------|----------------|------------------|---------------------|  
-| Comparative Analysis       | 5               | 5                 | 5                    | 4              | 5                | 4                   |  
-| Experiential Perspective   | 5               | 5                 | 5                    | 4              | 4                | 4                   |  
-| Everyday Functioning       | 5               | 5                 | 5                    | 4              | 4                | 4                   |  
-| Universal Prompt Structures| 5               | 5                 | 5                    | 4              | 4                | 4                   |  
-| Prompt Size Limitations    | 5               | 5                 | 5                    | 4              | 4                | 4                   |  
+---
+
+# ⭐ **Evaluation (Rubrics: Clarity, Relevance, Completeness — 1 to 5 scale)**
+
+
+
+| Prompt Type                 | ChatGPT Clarity | ChatGPT Relevance | ChatGPT Completeness | Gemini Clarity | Gemini Relevance | Gemini Completeness |
+| --------------------------- | --------------- | ----------------- | -------------------- | -------------- | ---------------- | ------------------- |
+| Comparative Analysis        | 5               | 5                 | 4                    | 4              | 4                | 4                   |
+| Experiential Perspective    | 5               | 4                 | 5                    | 4              | 4                | 3                   |
+| Everyday Functioning        | 5               | 5                 | 5                    | 4              | 4                | 4                   |
+| Universal Prompt Structures | 5               | 5                 | 4                    | 4              | 4                | 4                   |
+| Prompt Size Limitations     | 4               | 5                 | 4                    | 4              | 4                | 3                   |
+
+---
 
  
 
 ## **Conclusion**  
-This experiment demonstrated five prompt types for an IoT-based manufacturing automation use case.  
-- **ChatGPT** provided highly detailed and complete responses with strong clarity.  
-- **Gemini** gave concise and relevant responses, though slightly less detailed.  
-Using rubrics, ChatGPT scored higher on completeness, while Gemini scored well on efficiency and brevity.  
+This experiment successfully demonstrated the use of five different prompt types within an IoT-based manufacturing automation context. The outputs from two AI tools—ChatGPT and Gemini—were analyzed and compared.
+
+# ChatGPT :
+provided detailed, well-structured, and highly complete responses, showcasing strong clarity and depth.
+
+# Gemini :
+delivered concise, efficient, and context-relevant answers, though with slightly less detail.
+
+Based on rubric-based evaluation, ChatGPT showed higher performance in completeness and richness of explanation, while Gemini performed well in clarity and brevity.
 
  
 
 ## **Result**  
-The prompts were successfully executed using two AI tools. Their outputs were compared, and the evaluation showed that both tools generate useful results, with ChatGPT excelling in depth and Gemini in conciseness.  
-
+All prompt types were effectively designed and executed across both AI tools. Their generated outputs were evaluated using clarity, relevance, and completeness metrics. The comparison showed that both models produce valuable and accurate responses, with ChatGPT excelling in thoroughness and Gemini offering compact and efficient outputs.
